@@ -4,3 +4,4 @@ Edad: 17 años.
 Fecha: 06/04/26
 Hobby: Dormir y ver series.
 Meta profesional: Crear soluciones tecnológicas innovadoras.
+Ciudad: San Rafael del Norte-Jinotega.
